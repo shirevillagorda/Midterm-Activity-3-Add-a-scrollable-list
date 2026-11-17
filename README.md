@@ -1,1 +1,0 @@
-# Midterm-Activity-3-Add-a-scrollable-list
